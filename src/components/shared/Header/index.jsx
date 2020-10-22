@@ -8,5 +8,5 @@ const Header = ({title}) => {
     </Styles.Header>
   );
 }
- 
+
 export default Header;
