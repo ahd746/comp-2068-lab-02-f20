@@ -11,7 +11,7 @@ const Home = () => {
       <Header title="Home Page"/>
       {/* You need a link to your about page as a call to action */}
       <button className="mx-5 my-3">
-        <Link className = "btn" to= "/about"> Vist the about page to know a funny fact about me</Link>
+        <Link className = "btn" to= "/about"> Vist the about page to know a funny fact</Link>
       </button>
     </>
   );
